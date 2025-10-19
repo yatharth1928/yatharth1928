@@ -1,7 +1,7 @@
-## Hi there 👋
+
 # Hi, I'm Yatharth Kohli 👋
 
-**Data Engineer | CSE undergrad | CMO @ Twinnie | Building data-driven products**
+**Data Engineer | CSE undergrad | Building data-driven products**
 
 I enjoy turning messy, real‑world data into reliable, production‑grade pipelines and insights. Recently, I’ve been exploring ML‑ops, computer vision (helmet detection, ANPR), and scalable analytics.
 
@@ -9,12 +9,10 @@ I enjoy turning messy, real‑world data into reliable, production‑grade pipel
 
 ## 🔗 Quick Links
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
-[![Twitter / X](https://img.shields.io/badge/Twitter-111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/YOUR-USERNAME)
-[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/yatharth-kohli-49ba48220/)
 
-> Tip: Replace `YOUR-USERNAME` and links with your actual handles.
+[![Email](https://img.shields.io/badge/Email-181717?style=for-the-badge\&logo=gmail\&logoColor=white)](yatharthkohli1928@gmail.com)
+
 
 ---
 
@@ -51,20 +49,19 @@ I enjoy turning messy, real‑world data into reliable, production‑grade pipel
 
 ## 🚀 Featured Projects
 
-### 🪖 Smart Helmet Detection (YOLOv8)
+### Gesture Echo [Full-Stack IoT + Machine Learning]
 
-Real‑time detection to improve on‑road safety. Includes: custom dataset prep, training pipeline, ONNX export, and inference API.
+Developed a customizable desktop UI to display live gesture-to-text conversion, incorporate error handling, and allow users
+to add new gesture mappings; this improved system usability
+* **Tech:** Full-Stack, IoT, Machine Learning
+* **Highlights:** Integrated preset phrase libraries (e.g., “Hello”, “Thank you”, “How are you?”) for common expressions, reducing average
+translation time by 35% and ensuring faster, more natural conversations.
 
-* **Tech:** Python, YOLOv8, OpenCV, FastAPI, Docker
-* **Highlights:** >95% precision on curated test set, real‑time on Jetson Nano
-* **Repo:** [github.com/YOUR-USERNAME/helmet-detection](https://github.com/YOUR-USERNAME/helmet-detection)
+### PG Life [Full Stack + Web Development]
 
-### 🔎 License Plate Detection & OCR (ANPR)
-
-End‑to‑end ANPR: plate detection, character segmentation, Tesseract OCR, post‑processing.
-
-* **Tech:** Python, OpenCV, EasyOCR/Tesseract, Flask
-* **Highlights:** Robust to low‑light and motion blur with image enhancement pipeline
+Built a full-stack web platform with optimized search and secure backend architecture, improving performance and boosting user retention and platform reliability.
+* **Tech:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Git, GitHub, and XAMPP/Apache.
+* **Highlights:** Full-stack platform with real-time optimized search, secure access control, and reliable user experience.
 * **Repo:** [github.com/YOUR-USERNAME/anpr-ocr](https://github.com/YOUR-USERNAME/anpr-ocr)
 
 ### 📊 Data Pipeline: Sales Forecasting @ Twinnie
@@ -85,29 +82,13 @@ Production‑ready pipeline for ingest → validate → transform → forecast �
 
 ---
 
-## 📈 GitHub Analytics
-
-> Replace `YOUR-USERNAME` below with your GitHub username.
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true" />
-</a>
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR-USERNAME&hide_border=true" />
-</a>
-
-<a href="https://github.com/YOUR-USERNAME">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
-</a>
-
 ---
 
 ## 📬 Get in Touch
 
-* Email: [your.email@domain.com](mailto:your.email@domain.com)
-* LinkedIn: [https://www.linkedin.com/in/YOUR-USERNAME](https://www.linkedin.com/in/YOUR-USERNAME)
-* Twitter/X: [https://x.com/YOUR-USERNAME](https://x.com/YOUR-USERNAME)
+* Email: [yatharthkohli1928@gmail.com](mailto:yatharthkohli1928@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/yatharth-kohli-49ba48220/](https://www.linkedin.com/in/yatharth-kohli-49ba48220/)
+
 
 If you’re hiring for **Data Engineering / ML‑ops** roles or collaborating on CV/ANPR projects, I’d love to chat.
 
@@ -133,10 +114,6 @@ If you’re hiring for **Data Engineering / ML‑ops** roles or collaborating on
 > `![Visits](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)`
 
 ---
-
-#### ✨ Credits
-
-Minimal badges by [shields.io](https://shields.io/). Stats cards by community projects. All content © Yatharth Kohli.
 
 <!--
 **yatharth1928/yatharth1928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
