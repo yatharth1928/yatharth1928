@@ -3,7 +3,7 @@
 
 **Data Engineer | CSE undergrad | Building data-driven products**
 
-I enjoy turning messy, real‑world data into reliable, production‑grade pipelines and insights. Recently, I’ve been exploring ML‑ops, computer vision (helmet detection, ANPR), and scalable analytics.
+I love building full-stack applications from UI to database, crafting clean frontends, optimized backends, and scalable architectures. Recently, I’ve been diving deeper into system design, performance tuning, and cloud-based deployments.
 
 ---
 
@@ -62,25 +62,11 @@ translation time by 35% and ensuring faster, more natural conversations.
 Built a full-stack web platform with optimized search and secure backend architecture, improving performance and boosting user retention and platform reliability.
 * **Tech:** HTML, CSS, JavaScript, Bootstrap, PHP, MySQL, Git, GitHub, and XAMPP/Apache.
 * **Highlights:** Full-stack platform with real-time optimized search, secure access control, and reliable user experience.
-* **Repo:** [github.com/YOUR-USERNAME/anpr-ocr](https://github.com/YOUR-USERNAME/anpr-ocr)
+* **Repo:** [https://github.com/yatharth1928/PG-life](https://github.com/yatharth1928/PG-life)
 
-### 📊 Data Pipeline: Sales Forecasting @ Twinnie
-
-Production‑ready pipeline for ingest → validate → transform → forecast → serve.
-
-* **Tech:** Airflow, dbt, Pandas, Prophet, AWS (S3 + Lambda + RDS)
-* **Highlights:** CI/CD with GitHub Actions, automated data quality checks, feature store basics
-* **Repo:** Private / case study on request
 
 ---
 
-## 🧪 What I’m Exploring
-
-* Building a lightweight **Job/Internship Tracker** desktop app (electron + sqlite + Python backend)
-* **ML‑ops**: model registry, experiment tracking, and deployment patterns
-* **Streaming**: Kafka + Flink basics for real‑time analytics
-
----
 
 ---
 
@@ -90,28 +76,7 @@ Production‑ready pipeline for ingest → validate → transform → forecast �
 * LinkedIn: [https://www.linkedin.com/in/yatharth-kohli-49ba48220/](https://www.linkedin.com/in/yatharth-kohli-49ba48220/)
 
 
-If you’re hiring for **Data Engineering / ML‑ops** roles or collaborating on CV/ANPR projects, I’d love to chat.
 
----
-
-## 🧩 Fun Bits
-
-* ⚡ I like optimizing SQL queries like mini‑puzzles.
-* 🧠 Currently reading about columnar storage & vectorized execution.
-* 🎯 Goal this year: publish 2 detailed case studies on production data systems.
-
----
-
-### 📄 How to Use
-
-1. Copy this markdown into a repo named **`YOUR-USERNAME/YOUR-USERNAME`** (exactly).
-2. Rename the file to `README.md` (it becomes your profile page).
-3. Replace placeholder handles, links, and project repo URLs with yours.
-4. Commit & push — your GitHub profile will render this README.
-
-> Bonus: Add a visits badge —
->
-> `![Visits](https://komarev.com/ghpvc/?username=YOUR-USERNAME&color=blue)`
 
 ---
 
