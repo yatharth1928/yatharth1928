@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yatharth Kohli 👋</h1>
+<h1 align="center">Hi, I'm Yatharth Kohli </h1>
 
 <p align="center">
   <b>Data Analyst · Full-Stack Developer · CSE Undergrad @ TIET Patiala</b>
